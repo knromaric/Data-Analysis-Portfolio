@@ -3,7 +3,40 @@ Portfolio data analysis projects using SQL, Python and Power BI.
 This repo consists of the following following project   
 
 ## Project 1: 
-  
+
+In this analysis we dive deep into a comprehensive sales trends analysis of the United
+States Retail Services from 2010 to 2022 using the power of SQL.
+
+**Data Source**: [https://www.kaggle.com/datasets/mohammadkaiftahir/us-store-sales-dataset](url)   
+
+Our sales data spans from January 2010 to December 2022 and includes information such as:   
+
+**Month**: month number of the sales   
+
+**Year**: year of the sales   
+
+**Naics_code**: North American Industry Classification System (NAICS) is the standard used by
+Federal statistical agencies in classifying business establishments   
+(https://www.census.gov/naics/)   
+
+**Kind_of_business**: specific type of the business   
+
+**Industry**: which industry the business belongs to   
+
+**Sales**: total sales recorded by the business   
+
+In Order to achieve this Data Exploration we wrote SQL queries to answer the following questions:   
+* Which industry has the highest sales revenue for 2022? 
+* What is the contribution percentage of each within the Automotive industry in 2022?
+* How has the sales revenue changed over time for the Motor vehicle and part dealers?
+* which businesses have the highest total sales for the "food and beverage" industry for each year?
+* what is the revenue change in percentage for each industry from 2019 to 2020?
+* What is the year-over-year growth rate for each industry per year?
+* ...
+
+[**Code** ](https://github.com/knromaric/Data-Analysis-Portfolio/blob/main/SQL%20DATA%20ANALYSIS/Retail%20Sales%20Analysis%20With%20SQL.sql)   
+
+[**Analysis Report**](https://github.com/knromaric/Data-Analysis-Portfolio/blob/main/SQL%20DATA%20ANALYSIS/Sales%20Trends%20Analysis%20Report.pdf)
 
 ## Project 2: Toys Sales Performance Analysis Using Power BI   
 
