@@ -2,7 +2,7 @@
 Portfolio data analysis projects using SQL, Python and Power BI.   
 This repo consists of the following following project   
 
-## Project 1: 
+## Project 1: US Retail Sales Trend Analysis Using SQL
 
 In this analysis we dive deep into a comprehensive sales trends analysis of the United
 States Retail Services from 2010 to 2022 using the power of SQL.
